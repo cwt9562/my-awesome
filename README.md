@@ -2,15 +2,25 @@
 
 记录一些我个人的收藏
 
+## 目录
+
+*. 博客、周刊
+    *. [科技爱好者周刊](#科技爱好者周刊)
+    *. [推酷周刊](#推酷周刊)
+    *. [码农周刊](#码农周刊)
+    *. [寻我](#寻我)
+    *. [HelloGithub月刊](#HelloGithub月刊)
+
 ## 博客、周刊
 
-### 科技爱好者周刊 - 阮一峰的网络日志
+### 科技爱好者周刊
 
 http://www.ruanyifeng.com/blog/  
+来自阮一峰的网络日志  
 每周五更新的泛IT周刊，基本都是本周最新的各种新闻，满屏干货。  
 阮老师实乃我辈楷模，心中敬仰犹如滔滔江水连绵不绝。  
 
-### 编程狂人 - 推酷周刊
+### 推酷周刊
 
 https://www.tuicool.com/mags  
 每周五更新，程序员专刊，学习一些他人的优秀分享  
@@ -29,35 +39,9 @@ https://seekbetter.me/
 在这里经常能淘到宝，几乎天天有新文章，周周有惊喜  
 相对其他周刊而言，这里面的文章因为都是普通人所写，更加接地气  
 
-### hello github月刊
+### HelloGithub月刊
 
 https://hellogithub.com/  
 每月28号更新，紧抓github近期热门项目，不像Trending那样一直都是些老面孔  
 
-## 在线工具
-
-### bejson
-
-### Post HTTP Requests Online
-
-
-## 在线画图
-
-### draw.io
-
-### dbdiagram.io
-
-### mermaid-live
-
-### sketchviz.com
-
-### tableconvert.com
-
-### 其他
-
-### uupoop
-
-### differapp
-
-### 
 
