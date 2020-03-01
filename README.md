@@ -34,7 +34,7 @@ https://weekly.manong.io/issues/
 
 ### 寻我
 
-https://seekbetter.me/
+https://seekbetter.me/  
 集中收录优秀的技术博客，在这里可以看到几乎所有目前活跃的技术博客的  
 在这里经常能淘到宝，几乎天天有新文章，周周有惊喜  
 相对其他周刊而言，这里面的文章因为都是普通人所写，更加接地气  
