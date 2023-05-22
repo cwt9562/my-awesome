@@ -2,31 +2,6 @@
 
 记录一些我个人的收藏
 
-## 目录
-
-* 博客、周刊
-  * [科技爱好者周刊](#科技爱好者周刊)
-  * [推酷周刊](#推酷周刊)
-  * [码农周刊](#码农周刊)
-  * [寻我](#寻我)
-  * [HelloGithub月刊](#HelloGithub月刊)
-* 在线工具
-  * [BeJson在线json格式化](#在线json格式化bejson)
-  * [在线时间戳：CurrentMillis](#在线时间戳currentmillis)
-  * [在线比较：DifferApp](#在线比较differapp)
-  * [在线乱码恢复](#在线乱码恢复)
-  * [在线GUID：Online GUID Generator](#在线guidonlineguidgenerator)
-  * [在线AI帮起名](#在线ai帮起名)
-  * [在线HTTP客户端：Post HTTP Requests Online](#在线http客户端posthttprequestsonline)
-  * [在线画markdown表格：TableConvert Online](#在线画markdown表格tableconvertonline)
-* 在线画图
-  * [在线画图：draw.io](#在线画图drawio)
-  * [在线流程图：mermaid-live-editor](#在线流程图mermaid-live-editor)
-  * [手绘流程图：sketchviz](#手绘流程图sketchviz)
-  * [在线数据库类图：dbdiagram.io](#在线数据库类图dbdiagram.io)
-  * [在线脑图：百度脑图](#在线脑图百度脑图)
-  * [在线协作画图：ProcessOn](#在线协作画图processon)
-
 ## 博客、周刊
 
 ### 科技爱好者周刊
@@ -35,18 +10,6 @@ http://www.ruanyifeng.com/blog/
 来自阮一峰的网络日志  
 每周五更新的泛IT周刊，基本都是本周最新的各种新闻，满屏干货。  
 阮老师实乃我辈楷模，心中敬仰犹如滔滔江水连绵不绝。  
-
-### 推酷周刊
-
-https://www.tuicool.com/mags  
-每周五更新，程序员专刊，学习一些他人的优秀分享  
-主要聚焦在几个方向：后端开发、前端开发、移动端开发、数据开发  
-
-### 码农周刊
-
-https://weekly.manong.io/issues/  
-每周二更新，程序员专刊，一样学习一些他人的优秀分享  
-有些夹带私货，但是不影响阅读，实用程度相对较高。   
 
 ### HelloGithub月刊
 
