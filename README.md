@@ -15,6 +15,7 @@
 | 名称 | 网址 |
 |:---:|:---:|
 | 在线json格式化 | http://www.bejson.com/ |
+| 在线json格式化 | http://www.bejson.com/ |
 | 在线时间戳 | https://currentmillis.com/ |
 | 在线Diff | https://differ.netlify.com/ |
 | 在线乱码恢复 | http://www.mytju.com/classcode/tools/messyCodeRecover.asp |
@@ -26,6 +27,8 @@
 | 在线流程图 | https://mermaid-js.github.io/mermaid-live-editor/ |
 | 在线手绘流程图 | https://sketchviz.com/new |
 | 在线ASCII码画图 | https://asciiflow.com/ |
+| 在线ER图 | https://dbdiagram.io/home |
+| 在线PS | https://www.uupoop.com/ |
 | RPM包搜索 | https://pkgs.org/ |
 
 
@@ -36,13 +39,25 @@
 | shadowsocks | https://portal.shadowsocks.au/ |
 | F1、赛车直播 | http://kart.camp/ |
 | 电视盒子分享 | https://www.sharerw.com/ |
-|  |  |
+| 巡星客 | https://www.istarshooter.com/ |
 
 ## 随记
 
 | 名称 | 网址 |
 |:---:|:---:|
 | DDD教程 | https://zq99299.github.io/note-book2/ddd/ |
-|  |  |
+| Nginx教程 | https://dunwu.github.io/nginx-tutorial/ |
+| KMS激活教程 | https://dunwu.github.io/nginx-tutorial/ |
+
+## 装机必备
+
+| 名称 | 网址 | 说明 |
+|:---:|:---:|:----|
+| jdk | https://adoptium.net/ |  |
+| clash | https://github.com/Fndroid/clash_for_windows_pkg |  |
+| clash汉化包 | https://github.com/BoyceLig/Clash_Chinese_Patch |  |
+| bitwarden | https://bitwarden.com/ |  |
+| apod | http://apod.china-vo.org/ |  |
+
 
 
