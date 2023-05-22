@@ -46,14 +46,7 @@ https://www.tuicool.com/mags
 
 https://weekly.manong.io/issues/  
 每周二更新，程序员专刊，一样学习一些他人的优秀分享  
-有些夹带私货，但是不影响阅读，实用程度相对较高。  
-
-### 寻我
-
-https://seekbetter.me/  
-集中收录优秀的技术博客，在这里可以看到几乎所有目前活跃的技术博客的  
-在这里经常能淘到宝，几乎天天有新文章，周周有惊喜  
-相对其他周刊而言，这里面的文章因为都是普通人所写，更加接地气  
+有些夹带私货，但是不影响阅读，实用程度相对较高。   
 
 ### HelloGithub月刊
 
@@ -139,3 +132,19 @@ https://naotu.baidu.com/
 https://www.processon.com/  
 功能强大的在线画图，特点是可以协同作画  
 但是免费版限制图的数量  
+
+### 在线ASCII码画图
+
+https://asciiflow.com/
+
+## 杂乱的学习资料
+
+### DDD教程
+
+https://zq99299.github.io/note-book2/ddd/
+见过的最优秀的ddd教程，从入门到脱坑
+
+### 湖仓
+
+《云原生湖仓一体数据平台》
+https://mp.weixin.qq.com/s/a_m3Hs3j8VHqTItioMShpw
