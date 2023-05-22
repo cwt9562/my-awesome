@@ -100,6 +100,26 @@ https://www.processon.com/
 
 https://asciiflow.com/
 
+## 科学上网
+
+### shadowsocks
+
+https://portal.shadowsocks.au/
+
+## 其他网站
+
+### 电视盒子软件分享
+
+https://www.sharerw.com/
+
+### F1、赛车直播
+
+http://kart.camp/
+
+### RPM包搜索
+
+https://pkgs.org/
+
 ## 杂乱的学习资料
 
 ### DDD教程
