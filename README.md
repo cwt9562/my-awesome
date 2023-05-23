@@ -48,6 +48,7 @@
 | DDD教程 | https://zq99299.github.io/note-book2/ddd/ |
 | Nginx教程 | https://dunwu.github.io/nginx-tutorial/ |
 | KMS激活教程 | http://wind4.github.io/vlmcsd/ |
+| systemd教程（英文） | https://systemd-by-example.com/ |
 
 ## 装机必备
 
